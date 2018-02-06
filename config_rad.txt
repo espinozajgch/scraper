@@ -1,0 +1,25 @@
+# Author: Leandro Mayor.
+# File: config.ini
+# Desc: Archivo de configuración
+
+# Parámetros de acceso a BD	
+
+# insignia_deportivo_database
+# insignia_deportivo_db_host = 200.109.237.18
+insignia_deportivo_db_host = 50.116.48.166
+#insignia_deportivo_db_user = rad_imc
+#insignia_deportivo_db_pass = 88bzQztu#
+insignia_deportivo_db_user = leandro.mayor
+insignia_deportivo_db_pass = QOwj1Jof
+insignia_deportivo_db_name = insignia_deportivo
+
+# Ruta de archivo PhantomJS
+ruta_phantomjs = C:/Users/Pc/Documents/NetBeansProjects/rad/phantomjs.exe
+
+# Variables de email
+[mail_smtp]
+host   = mail.insignia.com.ve
+port   = 26
+user   = notificaciones@insignia.com.ve
+pass   = qwe123
+sender = notificaciones@insignia.com.ve
